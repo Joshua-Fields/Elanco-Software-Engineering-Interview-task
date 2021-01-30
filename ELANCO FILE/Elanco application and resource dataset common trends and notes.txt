@@ -1,0 +1,11 @@
+Elanco application and resource dataset common trends and notes
+
+MOST EXPENSIVE APP: Macao
+MOST EXPENSIVE RESOURCE: Logic Apps
+MOST FREQUENT LOCATION: US East
+MOST FREQUENT ENVIRONMENT: Development
+MOST RECENTLY UPDATED APP: info-mediaries
+MOST RECENTLY UPDATED RESOURCE: Insight and Analytics
+APPLICATION WITH MOST RESOURCES: Officer 
+Elanco has 0 resources from: UK West | US Central
+Resources that are unavailable: Azure App Service | Storage
